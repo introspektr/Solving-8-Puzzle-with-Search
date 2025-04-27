@@ -18,7 +18,7 @@ This project implements Greedy Best-First Search and A* Search to solve the clas
 
 1. **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/introspektr/Solving-8-Puzzle-with-Search
     cd Solving-8-Puzzle-with-Search
     ```
 
